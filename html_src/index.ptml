@@ -1,0 +1,17 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            What Is Art?
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            What Is Art?
+        </h1>
+
+    </body>
+</html>
