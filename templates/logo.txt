@@ -1,7 +1,7 @@
         <div style="text-align:center">
             <figure class="logo">
 				<img
-					src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg/2500px-Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg">
+					src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg/2500px-Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg" height="100em">
             </figure>
         </div>
 

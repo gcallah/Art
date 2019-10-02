@@ -60,9 +60,16 @@ ol, ul, dl, li {
 }
 
 ul.centered {
-    text-align: center;
     list-style-position: inside;
-    font-size: 1em;
+}
+.menu {
+    margin: 1.6em 12em .6em 0em;
+    list-style: none;
+    padding: .8em;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--light-bg-color);
 }
 
 ol.nested, ul.nested, dl.nested {
